@@ -1,5 +1,20 @@
 {
-  "name": "SnackOverflow",
+  "name": "SnackOverflow | IAG",
   "about_url": "https://gitlab.com/AaronShewkani/snackoverflow-theme",
-  "license_url": "https://gitlab.com/AaronShewkani/snackoverflow-theme"
+  "license_url": "https://gitlab.com/AaronShewkani/snackoverflow-theme",
+  "theme_version": "1.0.0",
+  "color_schemes": {
+    "Alien Night | A Dark Discourse Theme": {
+      "primary": "222222",
+      "secondary": "ffffff",
+      "tertiary": "019245",
+      "quaternary": "019494",
+      "header_background": "019245",
+      "header_primary": "222",
+      "highlight": "ffff4d",
+      "danger": "e45735",
+      "success": "019245",
+      "love": "d41313"
+    }
+  }
 }
