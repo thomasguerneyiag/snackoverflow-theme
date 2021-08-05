@@ -1,18 +1,3 @@
-.snackoverflow-banner {
-    height: 300px;
-    width: 100%;
-    background: var(--quaternary);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 1em;
-}
-
-.snackoverflow-banner-h1 {
-    font-size: 8em;
-    color: var(--secondary);
-}
-
 @if $import-google-font == "true" {
   @import url('https://fonts.googleapis.com/css?family=Muli:400,800');
 }
@@ -894,5 +879,20 @@ nav .input-field label.active i {
 .category-boxes-with-topics .category-box-inner:hover {
 	box-shadow: 0 7px 12px rgba(0,0,0,0.25), 0 5px 5px rgba(0,0,0,0.22);
 }
+.snackoverflow-banner {
+    height: 300px;
+    width: 100%;
+    background: var(--quaternary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1em;
+}
+
+.snackoverflow-banner-h1 {
+    font-size: 8em;
+    color: var(--secondary);
+}
+
 
 @import "dark";
