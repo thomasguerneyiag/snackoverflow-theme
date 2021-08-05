@@ -1,7 +1,7 @@
 {
-  "name": "SnackOverflow | IAG",
-  "about_url": "https://gitlab.com/AaronShewkani/snackoverflow-theme",
-  "license_url": "https://gitlab.com/AaronShewkani/snackoverflow-theme",
+  "name": "Snackoverflow",
+  "about_url": "https://github.com/thomasguerneyiag/snackoverflow-theme",
+  "license_url": "https://github.com/thomasguerneyiag/snackoverflow-theme",
   "theme_version": "1.0.0",
   "color_schemes": {
     "SnackOverflow | IAG": {
